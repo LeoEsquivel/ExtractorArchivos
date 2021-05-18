@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.1
+Built-By: Leo
+Build-Jdk: 13.0.2
+Main-Class: com.lyon.extractorarchivos.App
+
