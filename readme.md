@@ -8,7 +8,7 @@ Tener java instalado.
 
 ## Ejecutar .jar 📝
 
-Desde la terminal ejecutar:
+Desde la terminal ubicada en la carpeta donde esta ubicado el jar ejecutar:
 
 ```
 java -jar ExtractorArchivos-ExtractorArchivosv1.0.jar
